@@ -13,6 +13,8 @@ public class SwappingTwoNumber {
 		intNum2 = intNum1 - intNum2;   
 		intNum1 =intNum1 - intNum2;   
 		System.out.println("After swapping numbers: "+intNum1 +"  " + intNum2);   
+		System.out.println("After swapping numbers: "+intNum1 +"  " + intNum2);   
+
 	}
 
 }

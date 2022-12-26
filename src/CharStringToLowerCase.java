@@ -9,6 +9,10 @@ public class CharStringToLowerCase {
 		
 		String strLowerCase=strName.toLowerCase();
 		System.out.println("String in lower case:"+strLowerCase);
+		System.out.println("String in lower case:"+strLowerCase);
+
+		System.out.println("String in lower case:"+strLowerCase);
+
 	}
 
 }
